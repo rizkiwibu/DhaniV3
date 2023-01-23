@@ -26,8 +26,8 @@ global.jumlah = '1000000000' //Gak usah di ubah
 global.prefa = ['','!','.','#','&'] //Gak usah di ubah
 global.scmu = 'Sc?\nEmang mau buat apa? Chat ownwr' //Monggo kalau mau ubah
 global.githubmu = 'https://github.com/rizkiwibu' //Isi nama github mu
-global.ytmu = 'https://youtube.com/channel/UCcnWMxH0nUbArCCkqubUeHA' //Gak usah di ubah
-global.ytvmu = 'https://youtube.com/shorts/b_L5jlwrFRs?feature=share' //Gak usah di ubah
+global.ytmu = 'https://www.youtube.com/@RIZKIIRFAN' //Gak usah di ubah
+global.ytvmu = 'https://www.youtube.com/@RIZKIIRFAN' //Gak usah di ubah
 global.linkbebas = 'https://chat.whatsapp.com/KcMIbBUddqjIoNmGCrRU5m' //Terserah mau luh isi web apa mau github atau link group juga bisa
 global.imglink = 'https://telegra.ph/file/b5ac5b79fd044eb90bfd9.jpg' // isi dengan image link/foto link
 global.teksqr = {
