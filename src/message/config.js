@@ -29,7 +29,7 @@ global.githubmu = 'https://github.com/rizkiwibu' //Isi nama github mu
 global.ytmu = 'https://www.youtube.com/@RIZKIIRFAN' //Gak usah di ubah
 global.ytvmu = 'https://www.youtube.com/@RIZKIIRFAN' //Gak usah di ubah
 global.linkbebas = 'https://chat.whatsapp.com/KcMIbBUddqjIoNmGCrRU5m' //Terserah mau luh isi web apa mau github atau link group juga bisa
-global.imglink = 'https://telegra.ph/file/b5ac5b79fd044eb90bfd9.jpg' // isi dengan image link/foto link
+global.imglink = 'https://telegra.ph/file/bebf3e16e4854d0f65f65.jpg' // isi dengan image link/foto link
 global.teksqr = {
 gopay: '_Ini kak Qr Gopay nya_',
 dana: '_Ini kak Qr Dana nya_',
